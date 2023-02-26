@@ -1,0 +1,8 @@
+.myInp{
+    padding: 5px;
+    margin:5px 0px;
+    width: 100%;
+    border: 1px solid teal;
+    color: teal;
+    background-color: transparent;
+}
